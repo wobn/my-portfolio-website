@@ -374,6 +374,19 @@ article:hover {
         0 0 14px 9px #0ff; /* outer cyan */
 }
 
+a:link {
+    color: white;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+h3 {
+    font-size: 1.8em;;
+}
+
 /* Main */
 
 #main {
