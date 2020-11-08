@@ -456,10 +456,10 @@ color: #a0a0a1;
 
         #main .thumb > h2 {
             pointer-events: none;
-            bottom: 1.875em;
+            bottom: 1.1em;
             font-size: 1em;
             text-shadow: 2px 1.5px #4c3434;
-            left: 2.1875em;
+            left: 1.2em;
             margin: 0;
             position: absolute;
             z-index: 1;
